@@ -13,6 +13,9 @@ This website is a quiz app containing multiple choice.
 * Context Api
 * Host on Netlify and Firebase
 
+## Website Link: 
+https://rak-quiz-app.netlify.app/
+
 # Screenshots of Website
 
 <img src="images/menu_page.png" height="500px"/>
