@@ -11,9 +11,9 @@ This website is a quiz app containing multiple choice.
 * React JS 
 * React Hooks
 * Context Api
-* Host on Netlify and Firebase
+* Host on Netlify
 
-## Website Link: 
+## Website Link
 https://rak-quiz-app.netlify.app/
 
 # Screenshots of Website
